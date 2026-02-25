@@ -1,0 +1,11 @@
+1. enter url on browser
+2. enter username and password, click login
+3. click Jobs
+4. click Show all
+5. click easy apply
+6. select ul li
+7. click Easy Apply button
+8. Next Next Next button until Additional Questions h3 is found
+9. extract questions ask gpt
+10. put answers to input
+11. click review

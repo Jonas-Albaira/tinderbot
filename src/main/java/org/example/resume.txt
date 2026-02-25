@@ -1,0 +1,81 @@
+Jonas Albaira
+Software Engineer/Developer
+jonas.albaira@gmail.com
+
+9052425137
+
+Ontario
+
+leusdigital.com
+
+in/jonas-albaira
+
+SUMMARY
+Experienced Software Engineer/Developer with 9+ years of expertise in website and application development. Proficient in React and other JavaScript libraries with Java, Python and PHP backend programming. Strong eye for frontend detailed design and skilled in backend programming
+
+SKILLS
+Front-end — HTML, CSS, Javascript, React, CI/CD — Jenkins, GitHub, Back-end — Python, Java, Lua, PHP, SpringBoot, Cloud Computing — AWS, DigitalOcean, GCP, Database — SQL, MySQL, Firestore
+EXPERIENCE
+Code Instructor / Code Sensei
+
+Code Ninjas
+Feb 2024 – Present
+•Assisted students in developing game building projects using MakeCode Arcade (Javascript Game Framework)
+•Taught Python programming classes to students using LEGO robotics kits, combining coding fundamentals with hands-on engineering challenges to enhance learning engagement.
+•Built a portfolio of 2D games using Javascript, showcasing skills like sprite animation, collisions, tilemaps, and event-driven logic.
+•Created a web-based dashboard with Python backend, React frontend, and Firebase database to track and display student star counts, streamlining progress tracking for Code Ninjas instructors.
+Founder/ CTO
+
+Leus Digital (leusdigital.com)
+May 2021 – Jan 2024
+•Built and scaled a web development business, generating over $10,000 in revenue within the first 3 years.
+•Successfully built and scaled 10+ different business websites, including e-commerce websites, landing pages and booking websites.
+Software Developer (Java)
+
+Tata Consultancy Services
+Jan 2020 – May 2021
+•Deployed a Wire Room application for a leading financial institution (Capital Markets and Inventory & Treasury Services).
+•Deployed corporate apps, managed Ubuntu servers and IBM WebSphere setups, handled Oracle SQL database tasks.
+•Built an internal tool to automate injecting message payloads to MQ's reducing manual efforts by 50%.
+•Automated GUI testing with Java Selenium reducing manual efforts by 55%.
+•Scripted ISO 20022 data for QA testing, cutting prep time by 80%.
+•Assisted AML team with Fircosoft and compliance integration, and managed CI/CD with Jenkins and GitHub for DevOps.
+Web Developer
+
+OntarioTech Student Union
+Sep 2018 – Jan 2020
+•Created a custom WordPress website with responsive design using HTML, CSS, PHP, MySQL, jQuery and JavaScript.
+•Enhanced website performance and security, converted PSD to WordPress, and optimized code/database.
+•Handled website updates and provided WordPress technical support.
+Web Developer
+
+Medicstox
+Sep 2015 – Dec 2019
+•Developed and scaled an e-commerce site with WooCommerce, WordPress, and custom PHP, MySQL
+•Implemented front-end pages and it's components that adheres to best UI/UX practices, increasing sales by 300%
+•Optimized the Linux server, NGINX web server and MySQL database to house 10,000 products
+EDUCATION
+Bachelor of Engineering (Honours) Software Engineering
+
+OntarioTech University
+2019
+ |
+Oshawa, Ontario
+CONTRACT HIRES
+Tilaus and Kamena Yoga
+
+(for Strat King Marketing)
+Jan 2025 – present
+Designed and developed fully responsive WordPress websites for Tilaus.io and Kamena Yoga, creating custom layouts, selecting typography and color schemes, and implementing SEO and performance optimizations to deliver a polished, high-impact online presence.
+
+ReadyMode and Clear Pathways
+
+(for Brand Vision Marketing)
+Jan 2024 – May 2024
+Built and deployed a responsive WordPress site for Readymode and Clear Pathways, improving site speed, SEO readiness, and user accessibility in alignment with provided visual assets and branding guidelines.
+
+Ocean Park Mechanical
+
+(for Brand Vision Marketing)
+Jan 2024 – May 2024
+Integrated a third-party API into OceanPM’s Webflow website using JavaScript, dynamically fetching and displaying data to enhance site interactivity and content automation.
